@@ -22,7 +22,7 @@ export const fetchNewsFailure = (error) => {
     };
 };
 
-const API_key = 'fa5266c12e664384880690b14e919108';
+const API_key = '';
 
 export const fetchNews = () => {
     return (dispatch) => {
